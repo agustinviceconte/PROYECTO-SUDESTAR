@@ -119,9 +119,46 @@ ul li:hover ul {
     height: 100%;
 }
 
-@media(max-width :320px) {
+@media(max-width : 425px) {
+    .hero__caja{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
     .hero__caja .hero__titulo {
-        font-size: 10px;
+        font-size: 10px;}
+
+        .navegacion__caja{
+            width: 100%;
+            padding: 0px;
+            margin: 0px;
+        }
+
+
+        .navegacion__menu{
+            width: 100%;
+            display: inline;
+            margin: 0px;
+            padding:0PX;
+         }
+
+         .navegacion__logo{
+             height: 40px;
+         }
+        .navegation__navbar{
+             margin: 0px;
+            padding: 0px;
+            
+        }
+      .navegacion__menu  
+      .navegacion__item{
+            margin: 5px;
+            
+        }
+        .navegacion__link{
+            font-size: 9px;
+            
+        
     }
 }
 
@@ -144,5 +181,7 @@ ul li:hover ul {
 
     .hero__caja .hero__subtitulo {
         font-size: 30px;
+
+    
     }
 }
