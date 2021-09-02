@@ -138,7 +138,7 @@ ul li:hover ul {
 
 .hero__caja {
   width: 100%;
-  background-image: url(Imagenes/Marshall.jpg);
+  background-image: url(../Imagenes/Marshall.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -206,7 +206,7 @@ ul li:hover ul {
 }
 
 .seccion1-bienvenida {
-  background-image: url(Imagenes/patern1.png);
+  background-image: url(../Imagenes/patern1.png);
   background-attachment: fixed;
   background-size: cover;
   width: 100%;
@@ -355,7 +355,7 @@ ul li:hover ul {
   background-color: cadetblue;
   width: 300px;
   height: 300px;
-  background-image: url(Imagenes/Cursos_HomeStudio.jpg);
+  background-image: url(../Imagenes/Cursos_HomeStudio.jpg);
   background-size: cover;
   margin-bottom: 10px;
   transition: 1s;
@@ -370,7 +370,7 @@ ul li:hover ul {
   background-color: cadetblue;
   width: 300px;
   height: 300px;
-  background-image: url(Imagenes/Cursos_GrabacionDigital.jpg);
+  background-image: url(../Imagenes/Cursos_GrabacionDigital.jpg);
   background-size: cover;
   margin-bottom: 10px;
   transition: 1s;
@@ -384,7 +384,7 @@ ul li:hover ul {
   background-color: cadetblue;
   width: 300px;
   height: 300px;
-  background-image: url(Imagenes/Cursos_GrabacionAnalogica.jpg);
+  background-image: url(../Imagenes/Cursos_GrabacionAnalogica.jpg);
   background-size: cover;
   margin-bottom: 10px;
   transition: 1s;
@@ -398,7 +398,7 @@ ul li:hover ul {
   background-color: cadetblue;
   width: 300px;
   height: 300px;
-  background-image: url(Imagenes/Cursos_Video.jpg);
+  background-image: url(../Imagenes/Cursos_Video.jpg);
   background-size: cover;
   margin-bottom: 10px;
   transition: 1s;
@@ -412,7 +412,7 @@ ul li:hover ul {
   background-color: cadetblue;
   width: 300px;
   height: 300px;
-  background-image: url(Imagenes/Cursos_FotografiaAnalogica.jpg);
+  background-image: url(../Imagenes/Cursos_FotografiaAnalogica.jpg);
   background-size: cover;
   margin-bottom: 10px;
   transition: 1s;
@@ -426,7 +426,7 @@ ul li:hover ul {
   background-color: cadetblue;
   width: 300px;
   height: 300px;
-  background-image: url(Imagenes/Cursos_FotografiaDigital.jpg);
+  background-image: url(../Imagenes/Cursos_FotografiaDigital.jpg);
   background-size: cover;
   margin-bottom: 10px;
   transition: 1s;
@@ -445,7 +445,7 @@ ul li:hover ul {
 }
 
 .clinica {
-  background-image: url(Imagenes/pizarron4.jpg);
+  background-image: url(../Imagenes/pizarron4.jpg);
   background-size: cover;
   width: 100%;
   display: flex;
@@ -918,7 +918,7 @@ aside > section {
 
 .imagen-caja2 {
   background-color: gray;
-  background-image: url(Imagenes/Articulos_Faraones.jpg);
+  background-image: url(../Imagenes/Articulos_Faraones.jpg);
   background-size: cover;
   overflow: hidden;
   width: 400px;
@@ -1057,7 +1057,7 @@ aside > section {
   width: 20%;
   height: 300px;
   background-color: blanchedalmond;
-  background-image: url(Imagenes/gear_marshall.guvnor.jpg);
+  background-image: url(../Imagenes/gear_marshall.guvnor.jpg);
   background-size: cover;
 }
 
@@ -1065,7 +1065,7 @@ aside > section {
   width: 25%;
   height: 300px;
   background-color: blanchedalmond;
-  background-image: url(Imagenes/gear_marshall_logo_blanco.jpg);
+  background-image: url(../Imagenes/gear_marshall_logo_blanco.jpg);
   background-size: cover;
 }
 
@@ -1073,7 +1073,7 @@ aside > section {
   width: 20%;
   height: 300px;
   background-color: blanchedalmond;
-  background-image: url(Imagenes/gear_marshall_bluesbreaker.jpg);
+  background-image: url(../Imagenes/gear_marshall_bluesbreaker.jpg);
   background-size: cover;
 }
 
@@ -1201,7 +1201,7 @@ form > button {
 }
 
 .vox {
-  background-image: url(Imagenes/Marshall.jpg);
+  background-image: url(../Imagenes/Marshall.jpg);
   background-repeat: repeat-y;
   background-position: right top;
 }
