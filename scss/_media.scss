@@ -1,8 +1,6 @@
 //-------Página Articulos------------------------
 
 
-//-----Historia de la distorsion
-
 @media(max-width:768px) {
     .disto {
         display: none;
@@ -37,7 +35,7 @@
     @include generarcolumnas('xl');
 }
 
-//-----Página contanto
+//-----Página contacto
 @media (max-width: 768px) {
     .contacto__redes {
         display: none;
@@ -47,5 +45,23 @@
 @media (max-width: 768px) {
     .formulario__contenedor {
         width: 100%;
+    }
+}
+
+//--------Página Cursos-----------
+@media(max-width: 425px) {
+    td {
+        font-size: 10px;
+    }
+
+    .clinica .clinica__titulo {
+        border-radius: 0;
+        width: 60%;
+        margin-left: 20%;
+
+    }
+
+    .clinica__img {
+        display: none;
     }
 }

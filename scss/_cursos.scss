@@ -228,19 +228,3 @@ td {
     border: solid black 1px;
 }
 
-@media(max-width: 425px) {
-    td {
-        font-size: 10px;
-    }
-
-.clinica .clinica__titulo {
-        border-radius: 0;
-        width: 60%;
-        margin-left: 20%;
-        
-    }
-
-    .clinica__img {
-        display: none;
-    }
-}
