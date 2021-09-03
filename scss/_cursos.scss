@@ -148,6 +148,8 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    padding: 0;
+    margin: 0;
 
     .clinica__titulo {
         background-color: black;
@@ -157,10 +159,15 @@
         border: solid white;
         border-radius: 2em;
         margin-top: 20px;
+        margin-left: 30%;
         margin-bottom: 20px;
         animation-name: clinica;
         animation-duration: 3s;
         animation-iteration-count: infinite;
+        text-align: center;
+        padding: 5px;
+        display: flex;
+        justify-self: center;
     }
 
     .clinica__box {
@@ -226,8 +233,11 @@ td {
         font-size: 10px;
     }
 
-    .clinica__titulo {
-        font-size: 8px;
+.clinica .clinica__titulo {
+        border-radius: 0;
+        width: 60%;
+        margin-left: 20%;
+        
     }
 
     .clinica__img {

@@ -2,13 +2,13 @@
 
 
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     box-sizing: border-box;
 }
 
 .navegacion__caja {
-    width: 100%;
+    width: 100% !important;
     background-color: rgba(0, 0, 0, 0.651);
     backdrop-filter: blur(8px);
     position: fixed;
@@ -93,6 +93,8 @@ ul li:hover ul {
     background-image: url(../Imagenes/Marshall.jpg);
     background-size: cover;
     background-attachment: fixed;
+    margin: 0%;
+    padding: 0%;
 
 
     .hero__titulo {
@@ -157,6 +159,7 @@ ul li:hover ul {
         }
         .navegacion__link{
             font-size: 9px;
+            font-weight: bold;
             
         
     }
